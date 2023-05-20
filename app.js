@@ -5,8 +5,8 @@ const mongoose = require('mongoose');
 const port = process.env.PORT || 3000;
 
 // Connect to MongoDB database
-mongoose.connect('mongodb+srv://mwauraanthony11:anthony123@cluster0.zqedtfx.mongodb.net/ussd-app', { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => console.log('MongoDB connected'))
+/*mongoose.connect('mongodb+srv://mwauraanthony11:anthony123@cluster0.zqedtfx.mongodb.net/ussd-app', { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => console.log('MongoDB connected'))*/
   .catch(err => console.log(err));
 
 // Define location schema
