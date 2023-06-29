@@ -1,4 +1,4 @@
-# Nearest-InsulinAccess_Points-
+# Diabetes Care Connect
 This application will help the diabetic patients locate the nearest Insulin access point for depending on patient's location
 
 There are some screenshots of the program on "img" folder.
